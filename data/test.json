@@ -1,0 +1,23 @@
+{
+	"peopleTab": "1",
+	"startDate": "2026-06-01",
+	"endDate": "2026-07-01",
+	"time": "08:00",
+	"peopleCount": [
+		{
+			"elderCount": 1,
+			"adultCount": 1,
+			"youthCount": 2,
+			"childCount": 0,
+			"babyCount": 0
+		}
+	],
+	"travelCountry": [
+		"波多黎各",
+		"卡達",
+		"荷屬安地列斯",
+		"布吉納法索",
+		"獅子山",
+		"塞席爾"
+	]
+}

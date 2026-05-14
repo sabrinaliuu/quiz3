@@ -1,0 +1,7 @@
+crawler_.py
+.vscode
+example.mp4
+build
+__pycache__
+crawler.spec
+dist
